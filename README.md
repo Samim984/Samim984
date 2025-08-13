@@ -29,7 +29,9 @@
 
 ## 📊 Projects  
 
-### 🔵 Power BI  
+<details>
+<summary>🔵 Power BI</summary>
+
 - [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
 - [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
 - [Financial Performance Analysis](https://github.com/Samim984/Financial-Performance-Analysis)  
@@ -39,19 +41,31 @@
 - [8 Car Sales Dashboard](https://github.com/Samim984/8-CAR-SALES-DASHBORD)  
 - [Adidas Analysis](https://github.com/Samim984/Adidas-Analysis)  
 
+</details>
+
 ---
 
-### 🟢 SQL  
+<details>
+<summary>🟢 SQL</summary>
+
 - [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
 
+</details>
+
 ---
 
-### 🐍 Python  
+<details>
+<summary>🐍 Python</summary>
+
 - [Walmart Project](https://github.com/Samim984/Walmart-Project)  
 - [Project Netflix](https://github.com/Samim984/Project-Netflix)  
 - [Nifty 50 - Indian Stock Market](https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market)  
 - [A Fintech Firm - Financial Analysis](https://github.com/Samim984/A-Fintech-firm-financial-analyze)  
 - [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
+
+</details>
+
+
 
 ---
 
