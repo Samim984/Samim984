@@ -27,12 +27,16 @@
 
 ---
 
-<!-- Projects Section -->
-<div class="section">
- ## 📊 Projects  
+## 📊 Projects
 
-<div align="center">
+<!-- Horizontal "buttons" (badges) as quick navigation -->
+<p align="center">
+  <a href="#power-bi"><img src="https://img.shields.io/badge/Power%20BI-007ACC?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"></a>
+  <a href="#sql"><img src="https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
+  <a href="#python"><img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+</p>
 
+<a id="power-bi"></a>
 <details>
 <summary>🔵 <b>Power BI</b></summary>
 
@@ -47,6 +51,7 @@
 
 </details>
 
+<a id="sql"></a>
 <details>
 <summary>🟢 <b>SQL</b></summary>
 
@@ -54,6 +59,7 @@
 
 </details>
 
+<a id="python"></a>
 <details>
 <summary>🐍 <b>Python</b></summary>
 
@@ -65,11 +71,6 @@
 
 </details>
 
-</div>
-
-
-
-
 ---
 
 ## 📊 GitHub Stats  
@@ -79,5 +80,5 @@
 ---
 
 ## 🤝 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samim-imtiaz-611a35273)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://samim984.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samim-imtiaz-611a35273)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://samim984.github.io)
