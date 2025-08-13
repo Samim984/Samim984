@@ -1,49 +1,66 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Samim Imtiaz</h1>
-<h3 align="center">Data / Business Analytics Enthusiast</h3>
+# Hi 👋, I'm Samim Imtiaz  
+**Data / Business Analytics Enthusiast**
 
 ---
 
-### 🌟 About Me
-- 📌 **Current Focus:** Data & Business Analytics  
-- 📊 Skilled in **Power BI**, **Excel**, **SQL**, **Python** (learning & improving daily)  
-- 🌐 **Portfolio:** [samim984.github.io](https://samim984.github.io)  
-- 💼 **LinkedIn:** [linkedin.com/in/samim-imtiaz-611a35273](https://linkedin.com/in/samim-imtiaz-611a35273)  
+## 🌟 About Me  
+📌 **Current Focus**: Data & Business Analytics  
+📊 **Skilled in**: Power BI, Excel, SQL, Python (learning & improving daily)  
+🌐 **Portfolio**: [samim984.github.io](https://samim984.github.io)  
+💼 **LinkedIn**: [linkedin.com/in/samim-imtiaz-611a35273](https://linkedin.com/in/samim-imtiaz-611a35273)  
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-</p>
+## 🛠 Tech Stack  
+- **Data Visualization**: Power BI  
+- **Data Analysis**: Excel, SQL  
+- **Programming**: Python  
+- **Machine Learning**: PHT Model, Summarization Projects  
 
 ---
 
-### 📌 What I’m Working On
-- 📚 Improving my skills in **Power BI** and **SQL**  
-- 🏗️ Building interactive dashboards & reports  
-- ✍️ Working on **news summarization research project** (PHT Model)  
-- 📈 Learning to turn **data into insights**  
+## 📌 What I’m Working On  
+📚 Improving my skills in Power BI and SQL  
+🏗 Building interactive dashboards & reports  
+✍️ Working on news summarization research project (PHT Model)  
+📈 Learning to turn data into insights  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samim984&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samim984&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
+## 📊 Projects  
+
+### 🔵 Power BI  
+- [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
+- [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
+- [Financial Performance Analysis](https://github.com/Samim984/Financial-Performance-Analysis)  
+- [Blinkit Sales](https://github.com/Samim984/BLINKIT-SALES)  
+- [Sales Overview Dashboard](https://github.com/Samim984/SALES-OVERVIEW-DASHBORD)  
+- [Watch Sales](https://github.com/Samim984/WATCH-SALES)  
+- [8 Car Sales Dashboard](https://github.com/Samim984/8-CAR-SALES-DASHBORD)  
+- [Adidas Analysis](https://github.com/Samim984/Adidas-Analysis)  
 
 ---
 
-### 🤝 Let’s Connect
-<p align="left">
-  <a href="https://linkedin.com/in/samim-imtiaz-611a35273">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="https://samim984.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
-  </a>
-</p>
+### 🟢 SQL  
+- [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
+
+---
+
+### 🐍 Python  
+- [Walmart Project](https://github.com/Samim984/Walmart-Project)  
+- [Project Netflix](https://github.com/Samim984/Project-Netflix)  
+- [Nifty 50 - Indian Stock Market](https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market)  
+- [A Fintech Firm - Financial Analysis](https://github.com/Samim984/A-Fintech-firm-financial-analyze)  
+- [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
+
+---
+
+## 📊 GitHub Stats  
+![Samim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samim984&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Samim984&theme=radical)  
+
+---
+
+## 🤝 Let’s Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/samim-imtiaz-611a35273)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://samim984.github.io)  
