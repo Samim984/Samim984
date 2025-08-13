@@ -29,92 +29,43 @@
 
 <!-- Projects Section -->
 <div class="section">
-  <h2>📊 Projects</h2>
+ ## 📊 Projects  
 
-  <div class="tabs">
-    <button class="tab-btn blue" onclick="toggleTab('powerbi')">🔵 Power BI</button>
-    <button class="tab-btn green" onclick="toggleTab('sql')">🟢 SQL</button>
-    <button class="tab-btn orange" onclick="toggleTab('python')">🐍 Python</button>
-  </div>
+<div align="center">
 
-  <!-- Power BI Projects -->
-  <div id="powerbi" class="tab-content">
-    <ul>
-      <li><a href="https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today">Legendary ODI XI</a></li>
-      <li><a href="https://github.com/Samim984/Adventure-Works-Sales-Return">Adventure Works Sales Return</a></li>
-      <li><a href="https://github.com/Samim984/Financial-Performance-Analysis">Financial Performance Analysis</a></li>
-      <li><a href="https://github.com/Samim984/BLINKIT-SALES">Blinkit Sales</a></li>
-      <li><a href="https://github.com/Samim984/SALES-OVERVIEW-DASHBORD">Sales Overview Dashboard</a></li>
-      <li><a href="https://github.com/Samim984/WATCH-SALES">Watch Sales</a></li>
-      <li><a href="https://github.com/Samim984/8-CAR-SALES-DASHBORD">8 Car Sales Dashboard</a></li>
-      <li><a href="https://github.com/Samim984/Adidas-Analysis">Adidas Analysis</a></li>
-    </ul>
-  </div>
+<details>
+<summary>🔵 <b>Power BI</b></summary>
 
-  <!-- SQL Projects -->
-  <div id="sql" class="tab-content">
-    <ul>
-      <li><a href="https://github.com/Samim984/SQL-CASE-STUDY-">SQL Case Study</a></li>
-    </ul>
-  </div>
+- [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
+- [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
+- [Financial Performance Analysis](https://github.com/Samim984/Financial-Performance-Analysis)  
+- [Blinkit Sales](https://github.com/Samim984/BLINKIT-SALES)  
+- [Sales Overview Dashboard](https://github.com/Samim984/SALES-OVERVIEW-DASHBORD)  
+- [Watch Sales](https://github.com/Samim984/WATCH-SALES)  
+- [8 Car Sales Dashboard](https://github.com/Samim984/8-CAR-SALES-DASHBORD)  
+- [Adidas Analysis](https://github.com/Samim984/Adidas-Analysis)  
 
-  <!-- Python Projects -->
-  <div id="python" class="tab-content">
-    <ul>
-      <li><a href="https://github.com/Samim984/Walmart-Project">Walmart Project</a></li>
-      <li><a href="https://github.com/Samim984/Project-Netflix">Project Netflix</a></li>
-      <li><a href="https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market">Nifty 50 - Indian Stock Market</a></li>
-      <li><a href="https://github.com/Samim984/A-Fintech-firm-financial-analyze">A Fintech Firm - Financial Analysis</a></li>
-      <li><a href="https://github.com/Samim984/Internship-Suvidafoundation-PHT">Internship Suvida Foundation - PHT Model</a></li>
-    </ul>
-  </div>
+</details>
+
+<details>
+<summary>🟢 <b>SQL</b></summary>
+
+- [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
+
+</details>
+
+<details>
+<summary>🐍 <b>Python</b></summary>
+
+- [Walmart Project](https://github.com/Samim984/Walmart-Project)  
+- [Project Netflix](https://github.com/Samim984/Project-Netflix)  
+- [Nifty 50 - Indian Stock Market](https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market)  
+- [A Fintech Firm - Financial Analysis](https://github.com/Samim984/A-Fintech-firm-financial-analyze)  
+- [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
+
+</details>
+
 </div>
-
-<!-- CSS -->
-<style>
-.tabs {
-  display: flex;
-  gap: 10px;
-  margin-bottom: 15px;
-}
-
-.tab-btn {
-  padding: 8px 15px;
-  border: none;
-  color: white;
-  cursor: pointer;
-  border-radius: 8px;
-  font-size: 16px;
-}
-
-.blue { background-color: #007acc; }
-.green { background-color: #2e8b57; }
-.orange { background-color: #ff8c00; }
-
-.tab-content {
-  display: none;
-  margin-top: 10px;
-}
-
-.tab-content ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.tab-content li {
-  margin: 5px 0;
-}
-</style>
-
-<!-- JavaScript -->
-<script>
-function toggleTab(tabId) {
-  const contents = document.querySelectorAll('.tab-content');
-  contents.forEach(content => {
-    content.style.display = (content.id === tabId && content.style.display !== 'block') ? 'block' : 'none';
-  });
-}
-</script>
 
 
 
