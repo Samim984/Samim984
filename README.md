@@ -27,18 +27,14 @@
 
 ---
 
-## 📊 Projects
+ ## 📊 Projects
 
-<!-- Horizontal "buttons" (badges) as quick navigation -->
-<p align="center">
-  <a href="#power-bi"><img src="https://img.shields.io/badge/Power%20BI-007ACC?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"></a>
-  <a href="#sql"><img src="https://img.shields.io/badge/SQL-2E8B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></a>
-  <a href="#python"><img src="https://img.shields.io/badge/Python-FF8C00?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-</p>
+<table>
+<tr>
+<td>
 
-<a id="power-bi"></a>
 <details>
-<summary>🔵 <b>Power BI</b></summary>
+<summary><span style="color:blue;">🔵 Power BI</span></summary>
 
 - [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
 - [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
@@ -51,17 +47,21 @@
 
 </details>
 
-<a id="sql"></a>
+</td>
+<td>
+
 <details>
-<summary>🟢 <b>SQL</b></summary>
+<summary><span style="color:green;">🟢 SQL</span></summary>
 
 - [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
 
 </details>
 
-<a id="python"></a>
+</td>
+<td>
+
 <details>
-<summary>🐍 <b>Python</b></summary>
+<summary><span style="color:orange;">🐍 Python</span></summary>
 
 - [Walmart Project](https://github.com/Samim984/Walmart-Project)  
 - [Project Netflix](https://github.com/Samim984/Project-Netflix)  
@@ -70,6 +70,10 @@
 - [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
 
 </details>
+
+</td>
+</tr>
+</table>
 
 ---
 
