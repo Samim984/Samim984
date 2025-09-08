@@ -27,7 +27,6 @@
 
 ---
 ![Projects Banner](https://img.shields.io/badge/📁%20Projects-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
-## 📊 Projects (Power BI / Python / SQL)
 
  ## 📊 Projects
 
