@@ -72,7 +72,8 @@
 - [Project Netflix](https://github.com/Samim984/Project-Netflix)  
 - [Nifty 50 - Indian Stock Market](https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market)  
 - [A Fintech Firm - Financial Analysis](https://github.com/Samim984/A-Fintech-firm-financial-analyze)  
-- [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
+- [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)
+- [Internship – Suvida Foundation (MKEM, SDS, MDS Summarization Research)](https://github.com/Samim984/Internship-Suvidafoundation-MKEM-SDS-MDS)
 
 </details>
 
