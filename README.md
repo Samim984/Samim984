@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats  
 
 ![Samim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samim984&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samim984&theme=radical)) 
+![GitHub Streak](https://streak-stats.demolab.com?user=Samim984&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samim984&layout=compact&theme=radical)
 
 
