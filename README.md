@@ -44,6 +44,11 @@
 - [Watch Sales](https://github.com/Samim984/WATCH-SALES)  
 - [8 Car Sales Dashboard](https://github.com/Samim984/8-CAR-SALES-DASHBORD)  
 - [Adidas Analysis](https://github.com/Samim984/Adidas-Analysis)  
+- [Educational Performance and Resource Allocation](https://github.com/Samim984/CodeAlpha-Educational-Performance-and-Resource-Allocation)  
+- [Financial Health Dashboard](https://github.com/Samim984/CodeAlpha-Financial-Health-Dashboard)  
+- [Real Estate Market Trends](https://github.com/Samim984/CodeAlpha-Real-Estate-Market-Trends)  
+- [Human Resources Analytics](https://github.com/Samim984/CodeAlpha-Human-Resources-Analytics)  
+
 
 </details>
 
