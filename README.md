@@ -83,13 +83,16 @@
 
 ---
 <!-- 
+
 <!-- Section banner (dark) -->
 ![Stats Banner](https://img.shields.io/badge/📊%20GitHub%20Stats-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
   
 
 ![Samim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samim984&show_icons=true&theme=radical)  
 ![GitHub Streak](https://raw.githubusercontent.com/Samim984/Samim984/main/streek.svg) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samim984&layout=compact&theme=radical)  -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samim984&layout=compact&theme=radical) 
+
+-->
 
 
 ---
