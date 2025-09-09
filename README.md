@@ -82,7 +82,8 @@
 </table>
 
 ---
-<!-- <!-- Section banner (dark) -->
+<!-- 
+<!-- Section banner (dark) -->
 ![Stats Banner](https://img.shields.io/badge/📊%20GitHub%20Stats-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
   
 
