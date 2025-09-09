@@ -33,45 +33,6 @@
 <tr>
 <td>
  
-
-<details>
-<summary>📊 ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white)</summary>
-
-- [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
-- [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
-- [Financial Performance Analysis](https://github.com/Samim984/Financial-Performance-Analysis)  
-- [Blinkit Sales](https://github.com/Samim984/BLINKIT-SALES)  
-- [Sales Overview Dashboard](https://github.com/Samim984/SALES-OVERVIEW-DASHBORD)  
-- [Watch Sales](https://github.com/Samim984/WATCH-SALES)  
-- [8 Car Sales Dashboard](https://github.com/Samim984/8-CAR-SALES-DASHBORD)  
-- [Adidas Analysis](https://github.com/Samim984/Adidas-Analysis)  
-- [Educational Performance and Resource Allocation](https://github.com/Samim984/CodeAlpha-Educational-Performance-and-Resource-Allocation)  
-- [Financial Health Dashboard](https://github.com/Samim984/CodeAlpha-Financial-Health-Dashboard)  
-- [Real Estate Market Trends](https://github.com/Samim984/CodeAlpha-Real-Estate-Market-Trends)  
-- [Human Resources Analytics](https://github.com/Samim984/CodeAlpha-Human-Resources-Analytics)  
-
-</details>
-
-<details>
-<summary>🟢 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)</summary>
-
-- [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
-
-</details>
-
-<details>
-<summary>🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</summary>
-
-- [Walmart Project](https://github.com/Samim984/Walmart-Project)  
-- [Project Netflix](https://github.com/Samim984/Project-Netflix)  
-- [Nifty 50 - Indian Stock Market](https://github.com/Samim984/Nifty_50_e_Indian_Stock_Market)  
-- [A Fintech Firm - Financial Analysis](https://github.com/Samim984/A-Fintech-firm-financial-analyze)  
-- [Internship Suvida Foundation - PHT Model](https://github.com/Samim984/Internship-Suvidafoundation-PHT)  
-- [Internship – Suvida Foundation (MKEM, SDS, MDS Summarization Research)](https://github.com/Samim984/Internship-Suvidafoundation-MKEM-SDS-MDS)  
-
-</details>
-
-<!--
 <details>
  
 <summary><span style="color:blue;">🔵 Power BI</span></summary>
@@ -116,7 +77,6 @@
 - [Internship – Suvida Foundation (MKEM, SDS, MDS Summarization Research)](https://github.com/Samim984/Internship-Suvidafoundation-MKEM-SDS-MDS)
 
 </details>
--->
 
 </td>
 </tr>
