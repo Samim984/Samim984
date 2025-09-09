@@ -71,7 +71,7 @@
 
 </details>
 
-
+<!--
 <details>
  
 <summary><span style="color:blue;">🔵 Power BI</span></summary>
@@ -116,6 +116,7 @@
 - [Internship – Suvida Foundation (MKEM, SDS, MDS Summarization Research)](https://github.com/Samim984/Internship-Suvidafoundation-MKEM-SDS-MDS)
 
 </details>
+-->
 
 </td>
 </tr>
