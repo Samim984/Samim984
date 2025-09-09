@@ -82,17 +82,17 @@
 </table>
 
 ---
-<!-- Section banner (dark) -->
+<!-- <!-- Section banner (dark) -->
 ![Stats Banner](https://img.shields.io/badge/📊%20GitHub%20Stats-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
   
 
 ![Samim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samim984&show_icons=true&theme=radical)  
 ![GitHub Streak](https://raw.githubusercontent.com/Samim984/Samim984/main/streek.svg) 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samim984&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samim984&layout=compact&theme=radical)  -->
 
 
 ---
 ![Let’s Connect_Banner](https://img.shields.io/badge/🤝%20GitHub%20Let’s_Connect-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samim-imtiaz-611a35273)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://samim984.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://samim984.github.io)   
