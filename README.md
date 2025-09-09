@@ -34,8 +34,9 @@
 <td>
  
 <details>
- 
-<summary>📊 ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white)</summary>
+
+<summary><span style="color:blue;">🔵 Power BI</span></summary>
+<!-- <summary>📊 ![Power BI](https://img.shields.io/badge/Power%20BI-FFB900?style=for-the-badge&logo=powerbi&logoColor=white)</summary> -->
 
 - [Legendary ODI XI - From the mid 90s to Today](https://github.com/Samim984/Legendary-ODI-XI-From-the-mid-90s-to-today)  
 - [Adventure Works Sales Return](https://github.com/Samim984/Adventure-Works-Sales-Return)  
@@ -57,7 +58,8 @@
 <td>
 
 <details>
-<summary>🟢 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)</summary>
+<summary><span style="color:green;">🟢 SQL</span></summary> 
+<!-- <summary>🟢 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)</summary> -->
 
 - [SQL Case Study](https://github.com/Samim984/SQL-CASE-STUDY-)  
 
@@ -67,7 +69,8 @@
 <td>
 
 <details>
-<summary>🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</summary>
+<summary><span style="color:orange;">🐍 Python</span></summary>
+<!-- <summary>🐍 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</summary> -->
 
 - [Walmart Project](https://github.com/Samim984/Walmart-Project)  
 - [Project Netflix](https://github.com/Samim984/Project-Netflix)  
