@@ -11,7 +11,7 @@
 💼 **LinkedIn**: [linkedin.com/in/samim-imtiaz-611a35273](https://linkedin.com/in/samim-imtiaz-611a35273)  
 
 ---
-![Tech Stack Banner](https://img.shields.io/badge/🛠%20Tech_Stack -—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
+![Tech Stack Banner](https://img.shields.io/badge/🛠%20Tech_Stack-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
 
 ## 🛠 Tech Stack  
 - **Data Visualization**: Power BI  
