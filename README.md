@@ -2,6 +2,7 @@
 **Data / Business Analytics Enthusiast**
 
 ---
+![About Me Banner](https://img.shields.io/badge/🌟%20Projects-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
 
 ## 🌟 About Me  
 📌 **Current Focus**: Data & Business Analytics  
@@ -10,6 +11,7 @@
 💼 **LinkedIn**: [linkedin.com/in/samim-imtiaz-611a35273](https://linkedin.com/in/samim-imtiaz-611a35273)  
 
 ---
+![Tech Stack Banner](https://img.shields.io/badge/🛠%20Projects-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
 
 ## 🛠 Tech Stack  
 - **Data Visualization**: Power BI  
@@ -18,6 +20,7 @@
 - **Machine Learning**: PHT Model, Summarization Projects  
 
 ---
+![ What I’m Working On Banner](https://img.shields.io/badge/📌%20Projects-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
 
 ## 📌 What I’m Working On  
 📚 Improving my skills in Power BI and SQL  
@@ -94,6 +97,7 @@
 
 
 ---
+![Let’s Connect_Banner](https://img.shields.io/badge/🤝%20GitHub%20Stats-—?style=for-the-badge&logo=github&color=111827&labelColor=0f172a)
 
 ## 🤝 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samim-imtiaz-611a35273)
